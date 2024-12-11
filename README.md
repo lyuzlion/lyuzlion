@@ -1,7 +1,8 @@
 ## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuzlion)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuzlion)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuzlion)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lyuzlion)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lyuzlion)
