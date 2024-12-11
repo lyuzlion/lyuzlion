@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuzlion)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuzlion)
+![trophy](https://github-profile-trophy.vercel.app/?username=lyuzlion)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lyuzlion&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyuzlion)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lyuzlion)
 
 <!--
 **lyuzlion/lyuzlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
