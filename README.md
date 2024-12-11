@@ -14,7 +14,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyuzlion/lyuzlion/output/profile-season-animate.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lyuzlion/lyuzlion/output/profile-season-animate.svg">
 </picture>
 
 
