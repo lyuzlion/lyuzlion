@@ -1,12 +1,4 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyuzlion)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyuzlion)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lyuzlion)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyuzlion)
-
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
